@@ -1,3 +1,12 @@
+---
+name: "User Story"
+about: "Template to create user stories with acceptance criteria"
+title: "[User Story]: "
+labels: ["user-story"]
+assignees: []
+---
+
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
